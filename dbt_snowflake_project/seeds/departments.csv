@@ -1,0 +1,11 @@
+department_id,department_name,hospital_id
+DEP01, Cardiology ,H05
+DEP02,Oncology,H04
+DEP03,ent,H03
+DEP04,oncology,H01
+DEP05,NEUROLOGY_,H02
+DEP06, cardiology ,H02
+DEP07,Orthopedics,H03
+DEP08,Neur0l0gy,H04
+DEP09,Pediatrics,H01
+DEP10,Cardiology,H05

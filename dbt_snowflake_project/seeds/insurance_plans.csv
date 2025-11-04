@@ -1,0 +1,6 @@
+insurance_plan_id,provider_name,plan_name,coverage_percent,record_start,record_end
+INS001,"BATAL, ZAYYIR AND KABEER",Basic Care,90,2023-01-01,
+INS002,Raakin-Aamir,Premium Care,85,2023-01-01,
+INS003,scott llc,Standard,75,2023-01-01,
+INS004,"Buchanan, Hernandez and Campbell",Standard,75,2023-01-01,
+INS005, Zahur and Sons ,Platinum,90,2023-01-01,2023-08-05

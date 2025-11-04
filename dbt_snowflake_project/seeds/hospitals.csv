@@ -1,0 +1,51 @@
+hospital_id,hospital_name,city,capacity_beds,record_start,record_end
+H01,Howard Group Hospital,Quetta,189,2023-01-01,2023-10-26
+H02,Urrab-Taimur Hospital,Peshawar,344,2023-01-01,
+H03,Sanchez-Martinez Hospital_,Lahore,386,2023-01-01,
+H04,Scott Inc Hospital,Lahore,139,2023-01-01,
+H05,Smith-Garcia Hospital,Quetta,239,2023-01-01,
+H06," Ramsey, Owen and Daniel Hospital ",Islamabad,161,2023-01-01,2023-12-21
+H07," myers, anderson and anderson hospital ",Peshawar,158,2023-01-01,
+H08,Miller Inc Hospital,Peshawar,434,2023-01-01,
+H09,Sabir and Sons Hospital,Karachi,251,2023-01-01,
+H10,Nabih Ltd Hospital,Karachi,400,2023-01-01,2023-12-17
+H11, Cameron and Sons Hospital ,Islamabad,317,2023-01-01,
+H12,Aasif-Kasim Hospital,Islamabad,367,2023-01-01,
+H13,Werner LLC Hospital,Karachi,481,2023-01-01,2023-12-05
+H14,UBAADAH-AASIF HOSPITAL,Quetta,271,2023-01-01,
+H15,"Rafeek, Yar and Jabr Hospital",Karachi,477,2023-01-01,
+H16,Woods-Shelton Hospital,Lahore,98,2023-01-01,2023-12-16
+H17,johnson-edwards hospital,Peshawar,104,2023-01-01,2023-12-28
+H18,"Edwards, Lyons and Joyce Hospital",Islamabad,448,2023-01-01,
+H19,"Howard, Lee and Mann Hospital",Lahore,438,2023-01-01,2023-09-29
+H20,Blanchard and Sons Hospital,Quetta,172,2023-01-01,2023-12-05
+H21,"warner, thompson and hunter hospital",Islamabad,355,2023-01-01,2023-10-03
+H22,basaam group hospital,Peshawar,445,2023-01-01,
+H23,Rojas-Harris Hospital,Karachi,333,2023-01-01,2023-10-04
+H24,Benson Ltd Hospital,Quetta,125,2023-01-01,2023-07-21
+H25,"awj, ghafoor and bashaar hospital",Lahore,54,2023-01-01,
+H26,Rabar-Lahiah Hospital,Lahore,311,2023-01-01,
+H27,smith gr0up h0spit@l,Peshawar,425,2023-01-01,
+H28,Li Group Hospital,Quetta,413,2023-01-01,
+H29, Nail-Wadood Hospital ,Lahore,354,2023-01-01,
+H30," hill, watts and osborne hospital ",Peshawar,289,2023-01-01,2023-09-19
+H31,"Daniel, Morris and Montoya Hospital",Islamabad,419,2023-01-01,
+H32,@@tiq-ub@id h0spit@l,Quetta,192,2023-01-01,2023-09-05
+H33, Thompson-Cross Hospital ,Peshawar,450,2023-01-01,
+H34,Wong-Lee Hospital,Karachi,222,2023-01-01,2023-11-01
+H35,"Qaim, Ubay and Ijli Hospital",Quetta,394,2023-01-01,
+H36," Newman, Banks and Schultz Hospital ",Quetta,297,2023-01-01,
+H37,woods-jones hospital,Quetta,134,2023-01-01,
+H38,smith inc hospital,Lahore,202,2023-01-01,
+H39,Moreno LLC Hospital,Peshawar,286,2023-01-01,
+H40,"Zaahid, Raaghib and Sadeed Hospital",Lahore,420,2023-01-01,2023-10-18
+H41,"Taanish, Najeeb and Wafa Hospital",Karachi,478,2023-01-01,
+H42,harris inc hospital,Peshawar,95,2023-01-01,2023-12-06
+H43,Saalim PLC Hospital,Peshawar,260,2023-01-01,
+H44,Tajammul-Tali Hospital,Quetta,392,2023-01-01,
+H45,Wallace-Buchanan Hospital,Karachi,347,2023-01-01,2023-07-05
+H46,Sanchez-Fernandez Hospital,Islamabad,437,2023-01-01,
+H47,Aabid Inc Hospital,Karachi,310,2023-01-01,2023-09-12
+H48,Batool Inc Hospital,Peshawar,443,2023-01-01,
+H49,Umaarah PLC Hospital,Karachi,340,2023-01-01,
+H50,karaamat-mahfuj hospital,Peshawar,412,2023-01-01,2023-09-12
